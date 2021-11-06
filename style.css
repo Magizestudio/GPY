@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: #2e2e2e;
+}
+
+.main_frame {
+    width: 750px;
+    height: 900px;
+    margin: 0;
+    background-color: #5c5c5c;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.top_bar {
+    width: 750px;
+    height: 40px;
+    background-color: #a3a3a3;
+}
+
+.logo_image {
+    width: 750px;
+    height: 400px;
+    background-color: transparent;
+}
+
+.downloads_btn {
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    border-color: #b0b0b0;
+    cursor: pointer;
+}
+
+.downloads_btn:hover {
+    border-color: #0077ff;
+}
+
+.contact_btn {
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    border-color: #b0b0b0;
+    cursor: pointer;
+}
+
+.contact_btn:hover {
+    border-color: #0077ff;
+}
